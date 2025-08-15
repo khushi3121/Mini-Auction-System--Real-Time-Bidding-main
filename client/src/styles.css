@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 0px;
+  margin: 0%;
+}
+.auction-form input, .auction-form textarea {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  width: 300px;
+}
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+}
